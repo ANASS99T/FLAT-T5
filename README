@@ -4,5 +4,6 @@ A simple AI Chat Bot built with FLAT-T5-Large Model using LLM.
 
 Feel free to try it by changing the query in the notebook file execute it...
 
-A UI is coming soon. ^^
+You can check the UI in link: https://huggingface.co/spaces/nayxaboy/LLM-Getting-started
 
+BTW: the UI is made using Hugging Face.
